@@ -27,7 +27,7 @@ $ curl http://localhost:8080/api/greeting
 {"content":"Hello, World!"}
 
 $ curl http://localhost:8080/api/greeting?name=Sarah
-{"content":"Hello, Sarah!"}
+{"content":"Hello, Sheldon!"}
 ----
 
 == Running the Booster on a Single-node OpenShift Cluster
